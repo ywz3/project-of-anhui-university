@@ -1,8 +1,7 @@
 ## 欢迎来到安大边缘计算项目
 
-这是源码（GitHub） [editor on GitHub](https://github.com/ywz3/project-of-anhui-university/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是该网站的源码 [editor on GitHub](https://github.com/ywz3/project-of-anhui-university/edit/gh-pages/index.md) （由GitHub托管）
 
-该网页由GitHub[Jekyll](https://jekyllrb.com/) 托管
 
 ### Markdown
 
